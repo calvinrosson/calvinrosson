@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @calvinrosson
 - 👀 I’m interested in selling my artwork via NFTs
-- 🌱 I’m currently learning Moralis, FitHub, MetaMask
+- 🌱 I’m currently learning Moralis, Solidity, GitHub, MetaMask
 - 💞
 - 📫 How to reach me calvin@candysteps.com
 
